@@ -1,0 +1,17 @@
+Github
+Clone : clone matlab hume github ki repo agar hum ko system mai copy krna hai toh hum clone use krte hain.
+
+cd : means change directory.
+
+untrack : matlab agar hum ne koi files  update kiye toh github ko pta nhi chalega .
+
+git add . matlab agar hum ko multiple files staging mai rkhni ho toh .
+
+git add file name ke saath matlab ek specific file staging rkhni ho toh.
+
+remote means github
+and local means our system.
+
+Git Push : means to upload local repo content to remote repo:
+
+
